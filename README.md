@@ -1,9 +1,9 @@
 # theme-example
 
-An example theme using [gulp-tictail](https://github.com/tictail/gulp-tictail) and an opinionated workflow with SASS and CoffeeScript.
+An example theme using [gulp-tictail](https://github.com/tictail/gulp-tictail) and an opinionated workflow with SASS and es2015.
 
 * Local Tictail storefront
-* Builds SASS & CoffeeScript
+* Builds SASS & es2015
 * LiveReload
 
 We would suggest forking this repository and go from there.
